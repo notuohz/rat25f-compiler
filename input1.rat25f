@@ -1,0 +1,6 @@
+"6 line test"
+#
+integer x;
+x = 5;
+put(x);
+#

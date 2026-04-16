@@ -1,0 +1,24 @@
+"25 line test"
+#
+integer a, b, c;
+real x;
+boolean flag;
+
+a = 100;
+b = 50;
+c = a + b;
+
+x = 3.14;
+
+if (a > b)
+    flag = true;
+else
+    flag = false;
+fi
+
+get(a);
+put(a);
+
+while (c > 0)
+    c = c - 1;
+#

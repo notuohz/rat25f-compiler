@@ -1,0 +1,16 @@
+Token           Lexeme
+-----           ------
+separator       #
+keyword         integer
+identifier      x
+separator       ;
+identifier      x
+operator        =
+integer         5
+separator       ;
+keyword         put
+separator       (
+identifier      x
+separator       )
+separator       ;
+separator       #
